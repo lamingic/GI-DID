@@ -5,7 +5,7 @@
 GI-DID represents an innovative extension of the established Ev-IDID toolkit~(please refer to https://github.com/lamingic/Ev-IDID), specifically tailored to address complex I-DID (Interactive Dynamic Influence Diagram) problems with enhanced precision and capabilities. Building upon the solid foundation laid by Ev-IDID, GI-DID refines and augments its predecessor's functionalities, offering a superior approach to I-DID modeling.
 
 Furthermore, the repository functions as supplementary material for our paper titled "**Generative Method for Solving Interactive Dynamic Influence
-Diagram**" authored by an esteemed team comprising Yinghui Pan, , Yifeng Zeng, Biyang Ma and Guoquan Liu.
+Diagram**" .
 
 Within this paper, we introduce the Generative Interactive Dynamic Influence Diagram (GI-DID) framework, which can be embedded with various generative methods for addressing unpredictable agent behaviors. We integrate a perplexity-based metric within the GI-DID framework to enhance policy tree ensemble diversity. We propose a WDAE-based behavior generation method that diversifies and generates potential behaviors, enhancing the primary agent's modeling and prediction capabilities.  Experimental results on two classic domains demonstrate the effectiveness of WDAE-based in improving decision-making quality, and further verification confirms its efficacy in enhancing overall performance, contributing to advancements in multi-agent systems and laying the groundwork for future explorations in designing new diversity metrics and expanding problem domains.
 
