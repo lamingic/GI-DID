@@ -11,7 +11,7 @@ Within this paper, we introduce the Generative Interactive Dynamic Influence Dia
 
 **Outline of this repository:**
 
-**Supplemental Material for " Improved Response Strategies for Unknown Behaviours in Multiagent Interaction**"**
+**Supplemental Material for " Generative Method for Solving Interactive Dynamic Influence Diagram**"**
 
 **Frameworks and Components**:
  
